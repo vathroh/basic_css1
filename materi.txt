@@ -1,0 +1,9 @@
+- Apa itu CSS?
+- Inline CSS
+- Internal CSS
+- External CSS
+- CSS Syntax
+- Mengenal Lebih Dalam Dengan CSS Selector : Memberi Style pada Semua Element | Memberi Style pada Semua Element Tertentu | Memberi Style di Element dengan Nama id Tertentu | Memberikan Style yang Sama di Lebih dari Satu Element Sekaligus
+- Pseudo-class & Pseudo-element
+- Box Model
+- box-sizing
